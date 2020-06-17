@@ -1,2 +1,3 @@
 172.217.162.98 googleadservices.com
 172.217.30.34 www.googleadservices.com
+172.217.162.130 pagead.l.doubleclick.net
